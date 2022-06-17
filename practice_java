@@ -90,3 +90,4 @@ while (data<6){
     console.log(data);
     data++;
 }
+ 
